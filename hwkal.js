@@ -16,9 +16,9 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.youtube = 'https://youtube.com/-'
 global.ig = 'https://www.instagram.com/zykuan.144p/'
 global.mygc = 'wa.me/nogc'
-global.myweb = 'https;//noweb'
+global.myweb = 'https://noweb'
 global.linkgrupss = "https://chat.whatsapp.com/nogcawokalwk"
-global.linkpro = 'じくあん'
+global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 global.email = 'じくあん@gmail.com'
 global.region = 'Japan'
 //—————「 Set Nama Own & Bot 」—————//
